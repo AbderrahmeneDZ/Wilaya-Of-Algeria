@@ -46,5 +46,15 @@
 {"id":"45","code":"45","name":"Naama", "ar_name":"النعامة", "longitude":"33.1995605", "latitude":"-0.8021968"},
 {"id":"46","code":"46","name":"Ain Temouchent", "ar_name":"عين تموشنت", "longitude":"35.404044", "latitude":"-1.0580975"},
 {"id":"47","code":"47","name":"Ghardaefa", "ar_name":"غرداية", "longitude":"32.5891743", "latitude":"3.7455655"},
-{"id":"48","code":"48","name":"Relizane", "ar_name":"غليزان", "longitude":"35.8050195", "latitude":"0.867381"}
+{"id":"48","code":"48","name":"Relizane", "ar_name":"غليزان", "longitude":"35.8050195", "latitude":"0.867381"},
+{"id":"49","code":"49","name":"El M'ghair", "ar_name":"المغير", "longitude":"33.947222", "latitude":"5.922222"},
+{"id":"50","code":"50","name":"El Menia", "ar_name":"المنيعة", "longitude":"30.579167", "latitude":"2.879167"},
+{"id":"51","code":"51","name":"Ouled Djellal", "ar_name":"أولاد جلال", "longitude":"34.433333", "latitude":"5.066667"},
+{"id":"52","code":"52","name":"Bordj Baji Mokhtar", "ar_name":"برج باجي مختار", "longitude":"21.327778", "latitude":"0.955556"},
+{"id":"53","code":"53","name":"Béni Abbès", "ar_name":"بني عباس", "longitude":"30.133333", "latitude":"-2.166667"},
+{"id":"54","code":"54","name":"Timimoun", "ar_name":"تيميمون", "longitude":"29.258333", "latitude":"0.230556"},
+{"id":"55","code":"55","name":"Touggourt", "ar_name":"تقرت", "longitude":"33.108333", "latitude":"6.063889"},
+{"id":"56","code":"56","name":"Djanet", "ar_name":"جانت", "longitude":"24.554167", "latitude":"9.484722"},
+{"id":"57","code":"57","name":"In Salah", "ar_name":"عين صالح", "longitude":"27.197222", "latitude":"2.483333"},
+{"id":"58","code":"58","name":"In Guezzam", "ar_name":"عين قزام", "longitude":"19.572222", "latitude":"5.769444"}
 ]
